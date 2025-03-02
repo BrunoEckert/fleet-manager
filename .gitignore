@@ -1,0 +1,15 @@
+.idea/
+.build/
+application.properties
+
+*.DS_Store
+Thumbs.db
+
+target/
+
+logs/
+*.log
+
+.mvn/
+mvnw
+mvnw.cmd
