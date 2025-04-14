@@ -1,15 +1,24 @@
 .idea/
 .build/
-application.properties
+
+backend/.idea/
+backend/*.iml
+backend/target/
+backend/logs/
+backend/*.log
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/src/main/resources/application.properties
 
 *.DS_Store
 Thumbs.db
 
-target/
-
-logs/
-*.log
-
-.mvn/
-mvnw
-mvnw.cmd
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local

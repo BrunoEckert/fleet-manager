@@ -1,0 +1,17 @@
+.settings-logo {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.menu-item {
+    text-align: center;
+}
+
+.menu-item:hover {
+    background-color: #ddd;
+}
+
+.menu-item a {
+    text-decoration: none;
+}
